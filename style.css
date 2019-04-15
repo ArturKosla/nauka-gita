@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    padding-top: 100px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.poem {
+    text-align:center;
+    line-height: 2.0;
+}
